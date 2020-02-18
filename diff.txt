@@ -1,0 +1,51 @@
+diff --git a/log.txt b/log.txt
+new file mode 100644
+index 0000000..fe319ad
+--- /dev/null
++++ b/log.txt
+@@ -0,0 +1,9 @@
++commit d2170f2dbcae5e68ac0a0acd78a4f3b15ca3d650 (HEAD -> master)
++Author: Isaac-k7 <isaac07.ik@gmail.com>
++Date:   Tue Feb 18 10:56:43 2020 +0000
++
++    creation de du fichier menu
++
++commit 3ae32ba8b65218cc83a5c47500a2cfba3a9013b9 (origin/master, origin/HEAD)
++Author: Isaac_7 <58955183+Isaac-k7@users.noreply.github.com>
++Date:   Tue Feb 18 10:42:58 2020 +0000
+diff --git a/menu.txt b/menu.txt
+new file mode 100644
+index 0000000..bc70296
+--- /dev/null
++++ b/menu.txt
+@@ -0,0 +1,4 @@
++Steak tartare
++Salade norvégienne
++Filet de dorade
++
+
+diff --git a/log.txt b/log.txt
+new file mode 100644
+index 0000000..fe319ad
+--- /dev/null
++++ b/log.txt
+@@ -0,0 +1,9 @@
++commit d2170f2dbcae5e68ac0a0acd78a4f3b15ca3d650 (HEAD -> master)
++Author: Isaac-k7 <isaac07.ik@gmail.com>
++Date:   Tue Feb 18 10:56:43 2020 +0000
++
++    creation de du fichier menu
++
++commit 3ae32ba8b65218cc83a5c47500a2cfba3a9013b9 (origin/master, origin/HEAD)
++Author: Isaac_7 <58955183+Isaac-k7@users.noreply.github.com>
++Date:   Tue Feb 18 10:42:58 2020 +0000
+diff --git a/menu.txt b/menu.txt
+index 50bca35..bc70296 100644
+--- a/menu.txt
++++ b/menu.txt
+@@ -1,4 +1,4 @@
+ Steak tartare
+ Salade norvégienne
+ Filet de dorade
+-Bar à la citronnelle
++
